@@ -100,9 +100,3 @@ Abre tu navegador en `http://localhost:5173`.
 - `src/components/` — Componentes React (Lobby, Juegos, Auth, Admin, etc.)
 - `src/styles.css` — Estilos de la plataforma
 
----
-
-## 🔒 Privacidad y Seguridad
-
-- Sin dependencia de Firebase ni credenciales privadas en el repositorio.
-- Todos los archivos `.env` y bases de datos locales están protegidos en `.gitignore`.
